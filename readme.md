@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/agiledon/eas-ddd.svg?branch=master)](https://travis-ci.org/agiledon/eas-ddd)
 [![codecov](https://codecov.io/gh/agiledon/eas-ddd/branch/master/graph/badge.svg)](https://codecov.io/gh/agiledon/eas-ddd)
 
+**English version available: [README.en.md](./README.en.md)**
+
 ### 项目介绍
 
 EAS-DDD是我为GitChat课程《[领域驱动设计实战（战略篇）](https://gitbook.cn/gitchat/column/5b3235082ab5224deb750e02)》与《[领域驱动设计实战（战术篇）](https://gitbook.cn/gitchat/column/5cbed2f6f00736695f3a8699)》提供的实战项目案例。该案例取材自我参与过的真实项目，整个案例的代码完全按照领域驱动设计的过程进行建模、设计与编码。
